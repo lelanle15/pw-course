@@ -7,7 +7,7 @@ cách 1: Git commit --amend
 
 Cách 2: git commit --amend -m"message"
 
-## Đưa các file từ vùng stging về working directory
+## Đưa các file từ vùng staging về working directory
 
 
 
