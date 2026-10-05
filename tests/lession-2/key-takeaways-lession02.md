@@ -115,6 +115,26 @@ const framework = “Playwright”;
 ***Hằng số không thể thay đổi giá trị, nếu cố ý thay đổi thì sẽ gây ra lỗi***
 ***Lưu ý: Nên dùng let để khai báo biến để dễ kiểm soát phạm vi truy cập. Không dùng var.***
 
+### Điều kiện if 
+#### Cú pháp điều kiện if: 
+if (condition) { 
+// code block 
+} 
+Trong đó, condition = true thì sẽ chạy đoạn code block. 
+
+### Loops
+
+Cú pháp: for(<khởi tạo>; <điều kiện dừng>; <điều kiện tăng>) { // code } 
+Ví dụ 
+for (let i = 1; i <= 5; i++) { 
+console.log("Giá trị của i là: ", i); 
+} 
+// 1 
+// 2 
+// 3 
+// 4 
+// 5
+
 
 
 
